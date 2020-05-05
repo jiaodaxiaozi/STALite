@@ -4,6 +4,15 @@
  STAlite is an open-source AMS library for efficiently macroscopic traffic assignment 
  based on General Modeling Network Specification (GMNS) format
   
+  #What is GMNS?
+  General Travel Network Format Specification is a product of Zephyr Foundation, which aims to advance the field through flexible and efficient support, education, guidance, encouragement, and incubation.
+  Further Details in https://zephyrtransport.org/projects/2-network-standard-and-tools/
+  
+  #Goals of STALite development
+  1. Provide an open-source code base to enable transportation researchers and software developers to expand its range of capabilities to various traffic management application.
+  2. Present results to other users by visualizing time-varying traffic flow dynamics and traveler route choice behavior in an integrated environment.
+  3. Provide a free, educational tool for students to understand the complex decision-making process in transportation planning and optimization processes. 
+
   ![nexta](doc/images/nexta.png)
   
  #Features
