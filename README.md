@@ -23,7 +23,7 @@
  
  3.Provide API for both C++ and Python interface 
  
- 4.Efficiently multi-threading parallel computation and memory management, implemented in C++
+ 4.Efficient multi-threading parallel computation and memory management, implemented in C++
  	Utilize up to 40 CPU cores, 200 GB of Memory for networks with more than 50K nodes
  	
  5.Extendable Volume Delay Function (VDF) functions:
