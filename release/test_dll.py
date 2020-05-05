@@ -5,7 +5,7 @@ b = 2
 
 def fun_c():
     import ctypes
-    cdll = ctypes.cdll.LoadLibrary(r"D:\SourceCode\FlashDTA_sourcecode\test\FlashDTA.dll")
+    cdll = ctypes.cdll.LoadLibrary(r"D:\SourceCode\FlashDTA_sourcecode\test\STALite.dll")
     time_start = time.time()
 
     network_compu = cdll.network_assignment
@@ -15,7 +15,7 @@ def fun_c():
 
 
     time_end = time.time()
-    print('FlashDTA')
+    print('STALite')
     print('output: {}, total time: {}'.format(c, time_end-time_start))
 
 
