@@ -1,0 +1,5 @@
+agent_id,from_zone_id,to_zone_id,from_node_id,to_node_id,demand_type,demand_period,volume,cost,travel_time,distance,node_sequence
+1,1,7,1,20,SOV,AM,1.0,360.0,360.0,22.0000,1;2;6;8;7;18;20;
+2,2,6,2,18,SOV,AM,1.0,240.0,240.0,12.0000,2;6;8;7;18;
+3,3,7,3,20,SOV,AM,1.0,300.0,300.0,20.0000,3;12;13;24;21;20;
+4,4,6,6,18,SOV,AM,1.0,180.0,180.0,7.0000,6;8;7;18;

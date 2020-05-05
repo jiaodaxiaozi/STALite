@@ -1,0 +1,5 @@
+demand_type_id,demand_type,VOT,cap_ratio
+1,SOV,10,1
+2,HOV,10,1
+3,truck,20,1
+4,transit,20,1

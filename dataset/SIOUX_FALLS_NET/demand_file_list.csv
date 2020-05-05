@@ -1,0 +1,3 @@
+scenario_no,file_sequence_no,file_name,format_type,demand_period,demand_type
+0,1,demand_AM_sov.csv,column,AM,SOV
+0,2,demand_PM_sov.csv,column,AM,SOV
